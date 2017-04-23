@@ -1,0 +1,11 @@
+@font-face {
+    font-family: BirchStd;
+    src: url("/fonts/BirchStd.otf") format("opentype");
+}
+
+.inner h1 {
+	font-family: BirchStd, "Source Sans Pro", sans-serif;
+	font-weight: 100;
+	font-size: 3rem;
+	margin-bottom: 1em;
+}
