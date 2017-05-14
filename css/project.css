@@ -1,6 +1,6 @@
 @font-face {
     font-family: BirchStd;
-    src: url("/fonts/BirchStd.otf") format("opentype");
+    src: url("../fonts/BirchStd.otf") format("opentype");
 }
 
 .inner h1 {
