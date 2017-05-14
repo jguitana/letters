@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>https://lettersfromadeadman.com/#albums</loc>
+  </url>
+  
+  <url>
+    <loc>https://lettersfromadeadman.com/#band</loc>
+  </url>
+  
+  <url>
+    <loc>https://lettersfromadeadman.com/#concept</loc>
+  </url>
+  
+  <url>
+    <loc>https://lettersfromadeadman.com/#tours</loc>
+  </url>
+  
+  <url>
+    <loc>https://lettersfromadeadman.com/#contact</loc>
+  </url>
+  
+  <url>
+    <loc>https://lettersfromadeadman.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
